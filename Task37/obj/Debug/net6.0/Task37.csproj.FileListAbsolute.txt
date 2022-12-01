@@ -1,0 +1,15 @@
+X:\EEE5\Task37\bin\Debug\net6.0\Task37.exe
+X:\EEE5\Task37\bin\Debug\net6.0\Task37.deps.json
+X:\EEE5\Task37\bin\Debug\net6.0\Task37.runtimeconfig.json
+X:\EEE5\Task37\bin\Debug\net6.0\Task37.dll
+X:\EEE5\Task37\bin\Debug\net6.0\Task37.pdb
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.csproj.AssemblyReference.cache
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.GeneratedMSBuildEditorConfig.editorconfig
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.AssemblyInfoInputs.cache
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.AssemblyInfo.cs
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.csproj.CoreCompileInputs.cache
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.dll
+X:\EEE5\Task37\obj\Debug\net6.0\refint\Task37.dll
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.pdb
+X:\EEE5\Task37\obj\Debug\net6.0\Task37.genruntimeconfig.cache
+X:\EEE5\Task37\obj\Debug\net6.0\ref\Task37.dll
