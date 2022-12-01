@@ -21,4 +21,4 @@ for(int i =0; i< array.Length; i++)
                 sum=sum+1;
             }
     }
-Console.WriteLine(sum); 
+Console.WriteLine(sum);   
