@@ -19,6 +19,5 @@ for(int i =0; i< array.Length; i++)
             {
                 sum = sum+1;
             }
-        else{}
     }
 Console.WriteLine(sum);    
